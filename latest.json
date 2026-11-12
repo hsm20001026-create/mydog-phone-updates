@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.0/mydogphone-1.0.0.apk",
-  "notes": "나의강아지폰 첫 버전",
-  "sha256": "cfe2e54177541a09908c53e22d4244e6cac85517253029fad54b1079cd91076f"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.1/mydogphone-1.0.1.apk",
+  "notes": "강아지에 맞게 영상·소리·말투, 놀이 화면이 꺼져도 사진 보내기, 만지거나 가까이 오면 바로 사진, 놀아주기 영상 매번 새로, 보호자 폰에서 펫폰 소리 크기·잠시 끄기",
+  "sha256": "db927821af5ef4079cc3e09d8e93544e3c9a0adf75c16e59ba2459c30ea3fbee"
 }
