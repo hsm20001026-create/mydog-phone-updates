@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.4/mydogphone-1.0.4.apk",
-  "notes": "잠겨 있거나 놀이·몰래 보기 중에도 업데이트 바로 설치. 놀아주기 중 몰래 보기 유지. 가로 회전·설치 창에 영상이 바로 꺼지지 않게. 주인폰 아래 빈 색 막대 없앰. '켜는 중' 버튼이 멈추지 않게. 울음 3번이면 사르륵 소리 후, 아이 오면 영상통화.",
-  "sha256": "1256bf0b53a3a800c8fa0499b82c83768c143de0bd6c1b4fba0b66f69562a5e0"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.6/mydogphone-1.0.6.apk",
+  "notes": "앱 이름을 멍폰으로 바꿨어요. 기능은 이전과 같아요.",
+  "sha256": "3e44823c7a19c99e5a4ec54592e58c31b64c2eb2f3a8d003ffcb7dbca20c1cd1"
 }
