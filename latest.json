@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.4/mydogphone-1.0.4.apk",
-  "notes": "잠겨 있거나 놀이·몰래 보기 중에도 업데이트 바로 설치. 놀아주기 중 몰래 보기 유지. 가로 회전·설치 창에 영상이 바로 꺼지지 않게. 주인폰 아래 빈 색 막대 없앰. '켜는 중' 버튼이 멈추지 않게. 울음 3번이면 사르륵 소리 후, 아이 오면 영상통화.",
-  "sha256": "1256bf0b53a3a800c8fa0499b82c83768c143de0bd6c1b4fba0b66f69562a5e0"
-}
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.5/mydogphone-1.0.5.apk",
+  "notes": "오늘 한눈에(울음·움직임·나타난 횟수, 어제와 비교, 시간대 그래프·활동 위치). 오래 울면·낮에 3시간 소식이 없으면 알림. 연기·화재·사이렌 소리 긴급 알림. 아이 앞에 오면 녹음한 목소리. 메인에서 눌러 말하기. 배터리 온도·주변 소음 표시.",
+  "sha256": "a847bce8d21d5dcae8203c89001fa81ac0c04207042f802e42d1d8bc65ab0464"
+}\n
