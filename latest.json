@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.7/mydogphone-1.0.7.apk",
-  "notes": "아이가 크게 짖으면 펫폰이 아이를 부르고 보호자에게 영상통화를 걸어요. 통화 때 제 목소리가 되돌아오던 현상도 줄였어요.",
-  "sha256": "73b5c607ef1273bc4a21757ff46510c3662f959807c8fbe6f0ef91f203f6f311"
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.8/mydogphone-1.0.8.apk",
+  "notes": "사진에 왕관·하트·말풍선을 자동으로 붙이지 않아요. 저장·공유는 원본이고, 사진을 좌우로 밀면 이전·다음이 보여요. 아이콘은 하늘색이에요.",
+  "sha256": "56a714c4abec7c09c74e95d9a17166e2b5251978d82be6b0229f3eb83a952e3e"
 }
