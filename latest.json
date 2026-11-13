@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.2/mydogphone-1.0.2.apk",
-  "notes": "몰래 보기(펫폰 카메라를 소리·벨 없이 5분), 지금 놀아주기 켜기·끄기, 프로필 카드를 대화 카드 위로, 대화 카드 사진은 크게 보기",
-  "sha256": "cb06f112d3536a549fe5ee5e646dbb723677d60d1dc1d7945f4a70823e4ee12a"
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.3/mydogphone-1.0.3.apk",
+  "notes": "주인폰 화면이 상태바·버튼줄 아래로, 조금 촘촘하게. 프로필 카드 누르면 아이 정보·조용한 시간. 녹음 버튼 아래 설명. 펫에게 해주기: 잠재우기·심장·시냇물 소리(유튜브, 30분)",
+  "sha256": "08de622ff24da4b0449d869ec36dd81df3a22a1f9579be72093fbc15696b6f00"
 }
