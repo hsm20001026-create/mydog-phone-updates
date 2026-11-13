@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.6/mydogphone-1.0.6.apk",
-  "notes": "앱 이름을 멍폰으로 바꿨어요. 기능은 이전과 같아요.",
-  "sha256": "3e44823c7a19c99e5a4ec54592e58c31b64c2eb2f3a8d003ffcb7dbca20c1cd1"
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.7/mydogphone-1.0.7.apk",
+  "notes": "아이가 크게 짖으면 펫폰이 아이를 부르고 보호자에게 영상통화를 걸어요. 통화 때 제 목소리가 되돌아오던 현상도 줄였어요.",
+  "sha256": "73b5c607ef1273bc4a21757ff46510c3662f959807c8fbe6f0ef91f203f6f311"
 }
