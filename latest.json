@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.9/mydogphone-1.0.9.apk",
-  "notes": "큰 울음이 나면 새로운 불러오기 소리로 아이를 부른 뒤, 얼굴을 보면(또는 25초 뒤) 영상통화를 걸어요. 보호자 폰은 기본 전화 벨이 울려요. 사진 밀기 방향도 바꿨어요.",
-  "sha256": "0d24cf950aafa38924d931e8771d77f292745492ea7fd3cf0714cb5499d642f5"
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/hsm20001026-create/mydog-phone-updates/releases/download/v1.0.10/mydogphone-1.0.10.apk",
+  "notes": "놀아주기 버튼이 안 되거나 끈 뒤에 다시 켜지던 문제를 고쳤어요. 보낸 뒤 펫폰이 받았는지 버튼에 보여 줘요.",
+  "sha256": "f2415ce04cb9f9dc924ef181303eec20eb85d20f72930e8d3b812d2260fed402"
 }
